@@ -1,20 +1,14 @@
 {
-  "images": [
-    {
-      "url": "https://cdn.discordapp.com/attachments/1123117959569756191/1125732389080010752/20230704_114321.jpg",
-      "room": "Top right corner"
-    },
-    {
-      "url": "https://cdn.discordapp.com/attachments/1123117959569756191/1125732389361041469/20230704_114326.jpg",
-      "room": "Top left corner"
-    },
-    {
-      "url": "https://cdn.discordapp.com/attachments/1123117959569756191/1125732389600104519/20230704_114332.jpg",
-      "room": "Bottom right corner"
-    },
-    {
-      "url": "https://cdn.discordapp.com/attachments/1123117959569756191/1125732389893718046/20230704_1144140.jpg",
-      "room": "Bottom left corner"
-    }
+  "cameraImages": [
+    "https://cdn.discordapp.com/attachments/1123117959569756191/1125393240980455454/1688384828198",
+    "https://cdn.discordapp.com/attachments/1123117959569756191/1125393241391513731/1688384828600",
+    "https://cdn.discordapp.com/attachments/1123117959569756191/1125393241915793438/1688384827147",
+    "https://cdn.discordapp.com/attachments/1123117959569756191/1125393244520456335/1688384815187"
+  ],
+  "roomNames": [
+    "Top right corner",
+    "Top right corner 2",
+    "Trash",
+    "Top left corner"
   ]
 }
